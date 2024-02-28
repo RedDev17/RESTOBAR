@@ -96,10 +96,10 @@ header{
         background: black;
         transition: 0.5s;
         overflow: hidden;
+        z-index: 1;
     }
     .nav-bar.active{
         height: 450px;
-        z-index: 1;
     }
     
     .nav-bar ul{
