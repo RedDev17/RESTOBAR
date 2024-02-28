@@ -99,6 +99,7 @@ header{
     }
     .nav-bar.active{
         height: 450px;
+        z-index: 1;
     }
     
     .nav-bar ul{
