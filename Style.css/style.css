@@ -19,7 +19,7 @@ body{
 header{
     width: 100%;
     height: 80px;
-    background: rgb(153, 50, 204);
+    background: darkorchid;
     display: flex;
     align-items: center;
     justify-content: space-between;
